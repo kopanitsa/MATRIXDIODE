@@ -1,4 +1,4 @@
-baseURL = 'https://kopanitsa.github.io/MATRIXDIODE_page/page'
+baseURL = 'https://kopanitsa.github.io/MATRIXDIODE_page'
 publishDir = "docs"
 
 # This is a "one page"-website, so we do not need these kinds of pages...
