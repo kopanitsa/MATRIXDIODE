@@ -1,4 +1,5 @@
 baseURL = 'https://kopanitsa.github.io/MATRIXDIODE_page/page'
+publishDir = "docs"
 
 # This is a "one page"-website, so we do not need these kinds of pages...
 disableKinds = ["section", "taxonomy", "term", "RSS", "robotsTXT"]
