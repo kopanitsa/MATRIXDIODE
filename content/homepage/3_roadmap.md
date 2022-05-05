@@ -6,15 +6,15 @@ header_menu: false
 
 
 Phase1 (#1~#20): 
-- 疑似乱数を使ったマトリックスLEDの点灯パターンの定義とNFT化
-- 実行環境としてのデバイスの構築
+- Definition of matrix LED lighting patterns as NFT using pseudo-random numbers
+- Building devices as execution environments
 
 Phase2 (#21~#70): 
-- contract addressをseedとしたマトリックスLEDの点灯パターンの定義とNFT化
-- 大量生産品としての実行環境の構築
+- Definition of matrix LEDs lighting patterns as NFT with the contract address as random seed
+- Prepare execution environments as mass production device
 
 Phase3 (#71~?): 
-- ダイオード発光パターンに限らない、電気的及び機構的なふるまいのNFT化
+- NFT of electrical and mechanical behavior (not limited to LED patterns)
 
 ![pattern2](images/pattern2.gif) 
 
