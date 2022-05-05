@@ -10,6 +10,12 @@ MATRIXDIODEは電気的なふるまいをNFTとして固定する実験です。
 
 一方、MATRIXDIODEのNFTは特定のハードウェア上の電気的なふるまい、LEDの点灯パターンに紐付いています。そのため、NFT所有者(または非所有者)がNFTの紐付け先を閲覧・実行するためには、実行環境としてのハードウェアを調達または自ら製造する必要があります。
 
+MATRIXDIODE is an experiment in fixing electrical behavior as NFT.
+
+Most NFT art is treated as a token that is associated with an image, video, 3D model, or text; many digital contents associated with a token can be viewed and executed on a digital device such as a smartphone.
+
+MATRIXDIODE NFTs, on the other hand, are tied to electrical behavior on specific hardware, such as LED lighting patterns. Therefore, in order for NFT owners (or non-owners) to view and execute NFTs, they need to procure or manufacture their own hardware as an execution environment.
+
 ![concept](images/concept.png)
 
 MATRIXDIODEは以下のような検討を提起します。
