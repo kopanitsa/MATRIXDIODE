@@ -14,5 +14,3 @@ If you have obtained NFT, we will send you a hardware device to execute it. Plea
 {{<icon class="fa fa-github">}}&nbsp;[@kopanitsa](https://github.com/kopanitsa)
 
 Ethereum: 0x0Fcb8fFf7cfFec6D1C2c6e033495a56f3BAdac73
-
-Keep in touch!
