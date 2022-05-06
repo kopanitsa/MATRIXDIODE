@@ -4,6 +4,8 @@ weight: 2
 header_menu: false
 ---
 
+![pattern1](images/pattern1.gif) 
+
 MATRIXDIODEは電気的なふるまいをNFTとして固定する実験です。
 
 多くのNFTアートは画像や動画、3Dモデルやテキストに紐付けられるtokenとして扱われます。tokenが紐付いている多くのデジタルコンテンツは、スマートフォンなどのデジタルデバイス上で閲覧・実行することができます。
